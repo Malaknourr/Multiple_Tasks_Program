@@ -1,0 +1,12 @@
+Dear Valued Customer,
+
+We detected a **suspicious login** attempt to your **PayPal** account from an unknown location. To ensure your account's safety, please **click** the link below to **verify** your identity and **reset your password** immediately.
+
+Our system has flagged unusual behavior, and we require you to **update your information** to avoid **account verification required**. Failure to do so may result in your account being permanently locked. **Security alert:** Your **bank account verification** is pending, and we require your immediate action.
+
+As a **reward** for your loyalty, you have won a **free gift**! To claim it, simply **confirm your phone number** and complete the verification process. This offer is only available for a **limited time**. Act fast! **Your account is locked** until we receive your details.
+
+If you don't respond by **today**, your prize and account access may **expire**. Don't miss out on this **congratulations** offer. This is an **urgent** matter that needs your immediate attention. Follow the instructions to avoid **danger**.
+
+Best regards,
+PayPal Support Team

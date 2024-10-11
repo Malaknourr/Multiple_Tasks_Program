@@ -1,0 +1,12 @@
+Hello [Name],
+
+We hope you're doing well. We wanted to inform you that there will be a scheduled **GitHub** system maintenance this weekend. Our team will be performing updates to ensure enhanced performance and security. During this time, you may notice some temporary delays when accessing your repositories.
+
+Rest assured, your data is secure, and no action is required on your part. Once the update is complete, all your settings and files will remain intact. For any concerns or further clarification, please feel free to contact our customer support team, who will be happy to assist you.
+
+In addition, we would like to remind you about our upcoming community event, which you are invited to join. You can find the details of the event in your dashboard or contact our support team for more information. We’re excited to see you participate and engage with fellow developers.
+
+Thank you for using **GitHub**. We appreciate your continued support.
+
+Best regards,
+The GitHub Team
